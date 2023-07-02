@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontEnd Solution](https://www.frontendmentor.io/solutions/todoapp-CQAX6lwb2j)
+- Solution URL: [FrontEnd Solution](https://www.frontendmentor.io/solutions/shortlyurlshorteningapichallengesolution-ZbpV0EZEo5)
 - Live Site URL: [Live Site](https://lozocz.github.io/URL-shortening-API-landing-page/)
 
 ## My process
